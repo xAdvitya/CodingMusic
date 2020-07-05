@@ -1,18 +1,19 @@
 # CodingMusic
- > Music to listen to while programming
+ > Music to listen to while programming <br/>
+ > Do PR your collection 
 
 ## concentration
 
-- Death Note Soundtrack : https://www.youtube.com/watch?v=9NFCX_nNLsU
+- <a href="https://www.youtube.com/watch?v=9NFCX_nNLsU">Death Note Soundtrack</a>
 
-- Social Network Hacking music : https://www.youtube.com/watch?v=VMRiqrGFzY8
+- <a href="https://www.youtube.com/watch?v=VMRiqrGFzY8">Social Network Hacking music</a>
 
-- Deus Ex : https://www.youtube.com/watch?v=2yDVM77lGlM
+- <a href="https://www.youtube.com/watch?v=2yDVM77lGlM">Deus Ex</a>
 
-- lofi hip hop radio : https://www.youtube.com/results?search_query=lofi+hip+hop+radio+chilledcow
+- <a href="https://www.youtube.com/results?search_query=lofi+hip+hop+radio+chilledcow">lofi hip hop radio</a>
 ## Chill
 
-- Fat Rat top-20 : https://www.youtube.com/watch?v=i7MtYfUhfiQ
+- <a href="https://www.youtube.com/watch?v=i7MtYfUhfiQ">Fat Rat top-20</a>
 
-- Chillstep Music : https://www.youtube.com/watch?v=M5QY2_8704o
+- <a href="https://www.youtube.com/watch?v=M5QY2_8704o">Chillstep Music</a>
 
