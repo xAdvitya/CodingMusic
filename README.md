@@ -2,7 +2,7 @@
  > Music to listen to while programming <br/>
  > Do PR your collection 
 
-## concentration
+## Concentration
 
 - <a href="https://www.youtube.com/watch?v=9NFCX_nNLsU">Death Note Soundtrack</a>
 
